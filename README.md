@@ -1,6 +1,6 @@
 # Node.js template
 
-This is a Node.js project with an HTTP server.
+This is a Node.js project with an HTTP server made during a bootcamp at DevTown.
 
 Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io).
 
