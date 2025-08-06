@@ -1,6 +1,6 @@
 # Node.js template
 
-This is a Node.js project with an HTTP server made during a bootcamp at DevTown.
+This is a Node.js project with an HTTP server made during a bootcamp of MERN Stack at DevTown. Deployed at Render and developed using Codesandbox.
 
 Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io).
 
